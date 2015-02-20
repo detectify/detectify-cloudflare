@@ -1,0 +1,39 @@
+{
+    
+    "name": "Detectify",
+    "description": "Detectify is a SaaS based website security scanner that will help you stay safe. We audit your site’s security so you can focus on web development.",
+    "version": "0.5",
+    "category": "security monitoring",
+    "config":{
+        "details":{
+            "Language": "English",
+            "Restrictions": "None",
+            "TOS":"https://detectify.com/terms",
+            "has_js": false
+        }, 
+        "assets":{
+            "logos" : {
+                "200px": "./public/images/logo-200.png",
+                "132px": "./public/images/logo-132.png"
+            },
+            "detail_page" : [
+                "./public/images/dashboard.png",
+                "./public/images/report.png"
+                "./public/images/gohackyorself.png"
+            ]
+        }
+    },
+    "account": {
+        "callback_url": "https://detectify.com/integration/jago/cloudflare/v1/",
+        "user_fields": ["email"]
+    },
+    "billing": {
+        "type": "zone",
+        "plans":[
+            {
+                "name" : "Security testing",
+                "price": "30.00"
+            }
+        ]
+    }
+}
