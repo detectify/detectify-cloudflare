@@ -25,5 +25,5 @@ After the scan you get an easy to understand report that describes the possible 
 
 ![Detectify Report](/images/apps/detectify/report.png "Detectify Report")
 
-####Support 
-If you have any questions, please check out [our knowledgebase](http://support.detectify.com/) or contact [suppor](https://detectify.com/support), we'd love to help!
+####Support
+If you have any questions, please check out [our knowledgebase](http://support.detectify.com/) or contact [support](https://detectify.com/support), we'd love to help!
