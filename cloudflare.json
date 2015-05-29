@@ -6,7 +6,7 @@
     "category": "security monitoring",
     "config":{
         "details":{
-            "Category": "Security Monitoring",
+            "Category": "Website Security Monitoring",
             "Language": "English",
             "Price": "$30.00/month per domain",
             "Restrictions": "None - Unlimited Scans",
