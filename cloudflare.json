@@ -10,7 +10,7 @@
             "Restrictions": "None",
             "TOS":"https://detectify.com/terms",
             "has_js": false
-        }, 
+        },
         "assets":{
             "logos" : {
                 "200px": "./public/images/logo-200.png",

@@ -14,7 +14,7 @@ After the scan you get an easy to understand report that describes the possible 
 
 *	Frequently updated
 
-*   And a lot more! 
+*   And a lot more!
 
 ---
 ###An easy to use dashbard
