@@ -27,6 +27,13 @@
         "callback_url": "https://detectify.com/integration/jago/cloudflare/v1/",
         "user_fields": ["email"]
     },
+	"details":
+	{
+	   "Category": "Website Security Monitoring",
+	   "Language": "English",
+	   "Price": "$30.00/month per domain",
+       "Restrictions": "None - Unlimited Scan",
+	},
     "billing": {
         "type": "zone",
         "plans":[
