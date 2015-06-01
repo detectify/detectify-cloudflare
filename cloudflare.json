@@ -2,7 +2,7 @@
 
     "name": "Detectify",
     "description": "Detectify is a SaaS based website security scanner that will help you stay safe. We audit your site’s security so you can focus on web development.",
-    "version": "1.51",
+    "version": "1.52",
     "category": "security monitoring",
     "config":{
         "details":{
