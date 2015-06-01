@@ -21,9 +21,9 @@ After the scan you get an easy to understand report that describes the possible 
 ![Detectify Dashboard](/images/apps/detectify/dashboard.png "Detectify Dashboard")
 
 ---
-####Clean & simple report
+###Clean & simple report
 
 ![Detectify Report](/images/apps/detectify/report.png "Detectify Report")
 
-####Support
+###Support
 If you have any questions, please check out [our knowledgebase](http://support.detectify.com/) or contact [support](https://detectify.com/support), we'd love to help!
