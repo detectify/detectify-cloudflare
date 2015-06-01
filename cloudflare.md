@@ -17,7 +17,7 @@ After the scan you get an easy to understand report that describes the possible 
 *   And a lot more!
 
 ---
-###An easy to use dashbard
+###An easy to use dashboard
 ![Detectify Dashboard](/images/apps/detectify/dashboard.png "Detectify Dashboard")
 
 ---
